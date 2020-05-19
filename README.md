@@ -19,7 +19,7 @@ https://www.kaggle.com/yelp-dataset/yelp-dataset
 2) Feature selection based on data analysis
 3) Model Building
 
-Insights
+# Insights and Recommendations
 1) Top features of shopping malls are highly correlated than restaurants (it is easier to come up with a winning formula to make money in retail). However, it also means that non-parametric models are better suited for predicting shopping mall success.
 2) Yelp’s overall strategy shifting their focus away from local restaurants seems to be a step in the right direction, because it is harder to build long-lasting relationships with customers in an industry where business life cycles are shorter
 
